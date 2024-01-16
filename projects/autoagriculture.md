@@ -4,6 +4,7 @@ type: project
 image: img/micromouse/micromouse-square.jpg
 title: "Automated agriculture"
 date: 2019-06-01
+published: true
 labels:
   - Robotics
   - Agriculture
